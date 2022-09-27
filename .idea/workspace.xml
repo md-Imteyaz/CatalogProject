@@ -5,14 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72f59ba9-c663-44fd-b836-37ba0513f5bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Catalog.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CategoryChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/imteyaz/category/model/CategoryChild.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/imteyaz/category/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imteyaz/category/model/Category.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/imteyaz/category/model/CategoryApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imteyaz/category/model/CategoryApplication.java" afterDir="false" />
