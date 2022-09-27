@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72f59ba9-c663-44fd-b836-37ba0513f5bb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/imteyaz/category/model/CatalogTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/imteyaz/category/model/CategoryChild.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Catalog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Catalog.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/imteyaz/category/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imteyaz/category/model/Category.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/imteyaz/category/model/CategoryApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/imteyaz/category/model/CategoryApplication.java" afterDir="false" />
     </list>
@@ -17,8 +20,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -36,17 +40,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/dev&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "last_opened_file_path": "/dev",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.imteyaz.category.model" />
@@ -58,7 +67,7 @@
       <recent name="com.imteyaz.category.model" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.CatalogTest.testQuantity">
     <configuration name="CategoryApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.imteyaz.category.model.CategoryApplication" />
       <module name="Catalog" />
@@ -72,8 +81,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CatalogTest.testQuantity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Catalog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imteyaz.category.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imteyaz.category.model" />
+      <option name="MAIN_CLASS_NAME" value="com.imteyaz.category.model.CatalogTest" />
+      <option name="METHOD_NAME" value="testQuantity" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CatalogTest.testbuildCategories" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Catalog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imteyaz.category.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imteyaz.category.model" />
+      <option name="MAIN_CLASS_NAME" value="com.imteyaz.category.model.CatalogTest" />
+      <option name="METHOD_NAME" value="testbuildCategories" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CatalogTest.testQuantity" />
+        <item itemvalue="JUnit.CatalogTest.testbuildCategories" />
         <item itemvalue="Application.CategoryApplication" />
       </list>
     </recent_temporary>
